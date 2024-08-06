@@ -1,4 +1,4 @@
-# CS-361-Asignment-7
+# CS-361-Asignment-8
 
 Client requests data from socket.send_string(num_string). REQ is a method that is a socket type within the zmq methods of constant.py. This allows the socket to be created to send that string. num_string is generated as a random number (a placeholder for the actual data from the program, so that I could test any random decimal number would convert correctly to the proper letter grade.
 
