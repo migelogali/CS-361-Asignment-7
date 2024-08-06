@@ -8,4 +8,4 @@ Both files have a send_string and recv to exchange the information.
 
 This can be adjusted for a series of grades sent/received with a for loop. Will implement if necessary for the program.
 
-<img width="355" alt="UML Diagram" src="https://github.com/user-attachments/assets/509e41e2-1482-4e3e-96a4-b4f1bc3d8266">
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/ebcb1a89-1f04-4e33-b2a8-59c0338fd8c3">
